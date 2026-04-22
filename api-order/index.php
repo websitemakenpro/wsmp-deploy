@@ -325,9 +325,9 @@ ul.feats{list-style:none;padding:0;margin:0}
   <div class='pay'>
     <h3>&#128179; Betaalgegevens</h3>
     <p style='font-size:13px;color:#3A3A44;margin:0 0 10px'>Wil je alvast een aanbetaling doen? Dan kun je het bedrag overmaken naar:</p>
-    <div class='iban'>NL91 ABNA 0417 1643 00</div>
+    <div class='iban'>NL45 BUNQ 2116 7401 42</div>
     <table style='font-size:13px;margin-top:8px'>
-      <tr><td class='lbl'>T.n.v.</td><td><strong>WebsiteMakenPro</strong></td></tr>
+      <tr><td class='lbl'>T.n.v.</td><td><strong>Alfa Reclame</strong></td></tr>
       <tr><td class='lbl'>Omschrijving</td><td><strong>$orderRef</strong></td></tr>
       <tr><td class='lbl'>Bedrag</td><td><strong>$totalHTML</strong></td></tr>
     </table>
