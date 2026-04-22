@@ -1,0 +1,5 @@
+Contact: mailto:info@websitemakenpro.nl
+Contact: https://wa.me/31627246429
+Expires: 2027-04-21T00:00:00.000Z
+Preferred-Languages: nl, en, tr
+Canonical: https://websitemakenpro.nl/.well-known/security.txt

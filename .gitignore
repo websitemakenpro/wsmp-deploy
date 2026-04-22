@@ -1,0 +1,19 @@
+
+# Temp files
+.~lock.*
+
+# ZIP archives
+*.zip
+
+# Excel strategy files (keep in local only)
+*.xlsx
+
+# Node modules (if any)
+node_modules/
+
+# SMTP test folder (dev only)
+smtp-test/
+
+# OS files
+.DS_Store
+Thumbs.db

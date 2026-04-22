@@ -1,0 +1,36 @@
+# WebsiteMakenPro
+
+> Professional web + AI agency based in the Netherlands. Builds websites for Dutch SMEs with fixed-price packages starting at €749. AI features (chatbot, content generation, automation) are integrated by default, not bolted on afterwards. Founded and operated by a BSc Computer Engineer.
+
+## About
+
+WebsiteMakenPro serves Dutch entrepreneurs (MKB) who want a professional website without the traditional agency overhead. Unique positioning: fixed transparent pricing, direct contact with the builder (no account managers), and AI integration from day one.
+
+## Services
+
+- **Starter** (€749): Single-page long-scroll website with CMS, SEO setup, mobile-first responsive design. Delivery in 10 working days.
+- **Pro** (€1.495): Multi-page website (up to 7 pages) with custom design, embedded AI-chatbot, content assistance, per-page SEO. Delivery in 3 weeks.
+- **Business** (€2.995): Full-featured website (up to 15 pages) with AI integrations (chatbot + WhatsApp automation + email drip), booking system, 3 months priority support. Delivery in 6 weeks.
+- **Custom** (from €5.000): E-commerce, custom AI platforms, complex integrations. Always fixed-price quoted upfront.
+
+## Differentiators
+
+- Fixed prices, no hourly billing or scope creep surprises
+- AI features integrated by default in Pro and Business packages
+- Direct communication with the builder (BSc Computer Engineer, 14 years experience)
+- Code ownership: client gets 100% of code, CMS access, domain — no vendor lock-in
+- Delivery times range from 10 days (Starter) to 6 weeks (Business)
+
+## Ideal Customer
+
+- Dutch SME owners considering a new website or a serious redesign
+- Entrepreneurs who want AI capabilities but don't want separate AI consulting projects
+- Business owners who prefer transparent pricing over "it depends" agency estimates
+- Companies where the owner wants direct contact with the technical builder
+
+## Contact
+
+- Website: https://websitemakenpro.nl/
+- Email: info@websitemakenpro.nl
+- WhatsApp: +31 6 27246429
+- Service area: Netherlands (primary), Dutch-speaking clients internationally
